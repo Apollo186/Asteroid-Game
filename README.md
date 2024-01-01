@@ -1,6 +1,6 @@
 # Asteroid Game
 
-This project will allow you to destory asteroids using a rocket ship.
+This project will allow you to destroy asteroids using a rocket ship.
 
 # Prerequisites
 
